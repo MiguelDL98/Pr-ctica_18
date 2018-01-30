@@ -1,0 +1,7 @@
+.tabla {
+    width: 250px;
+    border: 1px solid #000;
+}
+.tabla th, .normal td {
+    border: 1px solid #000;
+}
